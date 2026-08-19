@@ -1,0 +1,19 @@
+{
+  "users": [
+    {
+      "id": 1,
+      "name": "Dimitri",
+      "cards": [1, 4, 7, 10]
+    },
+    {
+      "id": 2,
+      "name": "Byleth",
+      "cards": [2, 5, 8, 12]
+    },
+    {
+      "id": 3,
+      "name": "Mikhaela",
+      "cards": [3, 6, 9, 15]
+    }
+  ]
+}
